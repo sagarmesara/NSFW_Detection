@@ -1,18 +1,6 @@
 ipykernel
 streamlit
-
-# Exploratory Data Analysis (EDA)
-pandas==2.2.0
-numpy==1.26.4
-matplotlib==3.8.2
-seaborn==0.13.2
-
-# Deep Learning Framework
+opencv-python-headless
 tensorflow
-opencv-python
-
-# MLOps & Experiment Tracking
-mlflow==2.10.2
-
-# Production Serving & Deployment
-bentoml==1.2.0
+numpy
+pandas
