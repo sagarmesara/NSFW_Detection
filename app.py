@@ -5,7 +5,7 @@ import numpy as np
 
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model(r'models\NSFW_predictor.keras')
+    return tf.keras.models.load_model(r'models/NSFW_predictor.keras')
 
 model=load_model()
 
