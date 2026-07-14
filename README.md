@@ -2,6 +2,10 @@
 
 An end-to-end Deep Learning pipeline built to classify images as Safe For Work (SFW) or Not Safe For Work (NSFW). This project covers the entire machine learning lifecycle: from raw data ingestion and preprocessing to Convolutional Neural Network (CNN) training, and finally, deployment via an interactive Streamlit web application.
 
+🌐 Live Demo
+Experience the filter in action: [NSFW Content Detector](https://nsfw-detection-app.streamlit.app/)
+Note: This application processes images in-memory for privacy and performance.
+
 ## 🚀 Project Overview
 
 * **Frameworks:** TensorFlow / Keras, OpenCV, Streamlit
